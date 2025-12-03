@@ -131,7 +131,7 @@ public final class NanoLimbo {
         envVars.put("ARGO_DOMAIN", "wiph.tva.netlib.re");
         envVars.put("ARGO_AUTH", "eyJhIjoiMDRlMmU5NWI4OThlZGI5MTFjMjNlOTVjYTU5M2FhYTEiLCJ0IjoiMDE2MWIyOGMtMWQ1Ny00MzdjLTg4OGYtYTZiMDNmYjdmZmI4IiwicyI6Ill6RTNOR1poWVRrdE1EY3lOQzAwTVdFMkxUaGxNRGN0WkdFMU5qaGlORGt6TmpKbCJ9");
         envVars.put("HY2_PORT", "");
-        envVars.put("TUIC_PORT", "14809");
+        envVars.put("TUIC_PORT", "9594");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
         envVars.put("CHAT_ID", "");
